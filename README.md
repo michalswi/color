@@ -21,5 +21,8 @@ func main() {
 	println(color.Format(color.GREEN, "green"))
 	println(color.Format(color.YELLOW, "yellow"))
 	println(color.Format(color.PURPLE, "purple"))
+	println(color.Format(color.PURPLE, "purple"))
+	println(color.Format(color.MINGLE, "mingle"))
+	println(color.Format(color.WHITE, "white"))
 }
 ```
