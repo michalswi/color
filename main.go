@@ -15,6 +15,8 @@ const (
 	YELLOW        // Yellow color (int 3)
 	BLUE          // Blue color (int 4)
 	PURPLE        // Purple color (int 5)
+	MINGLE        // Mingle color (int 6)
+	WHITE         // White color (int 7)
 )
 
 // colorize function takes an integer c as input and
